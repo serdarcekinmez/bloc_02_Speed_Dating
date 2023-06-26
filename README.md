@@ -1,7 +1,7 @@
 Speed Dating Analysis
 Welcome to the Speed Dating Analysis project! This repository contains code and resources related to analyzing speed dating data.
 
-To get started, please watch the Speed Dating Analysis presentation video. 
+  
 You can watch the presentation video [here](https://share.vidyard.com/watch/1K8xnnbAVjjn4KQcBvkzmt?)
 
 Project Structure
